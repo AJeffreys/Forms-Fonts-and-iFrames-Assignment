@@ -10,5 +10,8 @@ body{
 #container{
 	width: 900px;
 	margin: 0 auto;
-	background-color:rgba(153,30,184,0.52);
+	border-width: 3px;
+	border-color: #000000;
+	background-color: #9831AA;
 	}
+
