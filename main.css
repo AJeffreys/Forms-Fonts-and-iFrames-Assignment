@@ -1,3 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 
+body{
+	background-image:url("images/Clouds.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+#container{
+	width: 900px;
+	margin: 0 auto;
+	border:thin
+	}
